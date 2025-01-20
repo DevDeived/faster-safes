@@ -123,7 +123,7 @@ section{
 #search input{
     width: 20vw;
     height: 6vh;
-    border: none; 
+    outline: none; 
 }
 
 #search input::placeholder{
